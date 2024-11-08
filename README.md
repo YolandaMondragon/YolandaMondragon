@@ -15,7 +15,20 @@
 - BSides312 Community Conference 2024
 - Women Impact Tech Chicago 2024
 - ChiBrrCon 2024
-# Learning Activities
+# Live Learning Activities
+- CISA Incident Response Triage Series: Mitigation (IR118)
+- Coursera Introduction to Python for Cybersecurity
+- ISACA MITRE ATT&CK Framework (Fall Seminar 2024)
+- OWASP Chicago API Security Summit 2024
+- CISA Initial Triage and Data Collection (IR115)
+- Splunk Education: Investigating with Splunk
+- Splunk Education: SOAR Workshop
+- Splunk Education: Enterprise Security Workshop
+- Splunk Education: Splunk4Ninjas ML Security Workshop
+- CISA Defend Against Ransomware Attacks (IR109)
+- Splunk Education: Security Basics Workshop
+- O'Reilly Live Event: MITRE ATT&CK Fundamentals
+- O'Reilly Live Event: TCP/IP Deep Dive with Wireshark for NetOps and SecOps
 # Affiliations
 - Member, Information Systems Security Association (ISSA)
 - Member, Open Worldwide Application Security Project (OWASP) Foundation
