@@ -1,5 +1,9 @@
 # Cybersecurity Professional Activities
 # Education and Certifications
+- Certificate in Cyber Security - Evolve Security Academy - March 2024
+- Evolve Security Certified Professional (ESCP) - Evolve Security Academy - March 2024
+- Security+ Certification - CompTIA - July 2024
+- B.S. in Computer Science - DePaul University
 # Conferences Attended
 - BSidesChicago 2024
 - Blue Team Con 2024
