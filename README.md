@@ -27,3 +27,4 @@
 # Languages
 - Fluent in English and Spanish
 # Hobbies
+- Hiking, travel, reading, and cooking
