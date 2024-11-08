@@ -1,12 +1,15 @@
 # Cybersecurity Professional Activities
 # Education and Certifications
 * Main
-  - Certificate in Cyber Security - Evolve Security Academy - March 2024
+  - Certificate in Cyber Security - Evolve Security Academy (March 2024)
   - Evolve Security Certified Professional (ESCP) - Evolve Security Academy - March 2024
   - Security+ Certification - CompTIA - July 2024
   - B.S. in Computer Science - DePaul University
 * Supplemental
   - Introduction to Python for Cybersecurity - Coursera - October 2024 
+# Projects
+- Evolve Security Academy - A contract project for client: Will County Health Department
+- Colorwave, Inc. 
 # Conferences Attended
 - BSidesChicago 2024
 - Blue Team Con 2024
