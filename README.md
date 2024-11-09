@@ -20,6 +20,7 @@
   - Leveraged my skills and knowledge in cybersecurity to positively contribute to an API development project for an AI service. 
 # Conferences Attended
 - BSidesChicago 2024
+- OWASP Chicago API Security Summit 2024
 - Blue Team Con 2024
 - ISACA Chicago Convergence Conference 2024
 - ISSA Chicago Annual Security, Education and Networking Cruise 2024
@@ -33,7 +34,6 @@
 - CISA Incident Response Triage Series: Mitigation (IR118)
 - Coursera Introduction to Python for Cybersecurity
 - ISACA MITRE ATT&CK Framework (Fall Seminar 2024)
-- OWASP Chicago API Security Summit 2024
 - CISA Initial Triage and Data Collection (IR115)
 - Splunk Education: Investigating with Splunk
 - Splunk Education: SOAR Workshop
