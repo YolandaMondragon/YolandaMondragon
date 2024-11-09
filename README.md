@@ -8,7 +8,7 @@
   - B.S. in Computer Science - DePaul University
 * Supplemental
   - Introduction to Python for Cybersecurity - Coursera (October 2024) 
-# Projects
+# Professional Projects
 * Evolve Security Academy - A contract project for client: Will County Health Department (March 2024)
   - Conducted external/internal vulnerability assessments utilizing tools: Nmap, Nessus, BurpSuite, Nikto, and Dirbuster.
   - Analyzed Nessus scan results, identified critical vulnerabilities, and assigned risk ratings for recommended controls.
