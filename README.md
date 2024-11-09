@@ -1,4 +1,4 @@
-# Cybersecurity Professional Activities
+# Cybersecurity Activities
 # Education and Certifications
 * Main
   - Certificate in Cyber Security - Evolve Security Academy (March 2024)
