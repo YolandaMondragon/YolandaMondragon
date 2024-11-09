@@ -1,8 +1,7 @@
 # Cybersecurity Activities
 # Education and Certifications
 * Main
-  - Certificate in Cyber Security - Evolve Security Academy (March 2024)
-    <br />A five-month immersive cybersecurity training program equipping the apprentice with a baseline of essential skills in cybersecurity.
+  - Certificate in Cyber Security - Evolve Security Academy (October 2023 - March 2024)
   - Evolve Security Certified Professional (ESCP) - Evolve Security Academy (March 2024)
   - Security+ Certification - CompTIA (July 2024)
   - B.S. in Computer Science - DePaul University
