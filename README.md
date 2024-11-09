@@ -9,8 +9,14 @@
 * Supplemental
   - Introduction to Python for Cybersecurity - Coursera (October 2024) 
 # Projects
-- Evolve Security Academy - A contract project for client: Will County Health Department (March 2024)
-- Colorwave, Inc. 
+* Evolve Security Academy - A contract project for client: Will County Health Department (March 2024)
+  - Conducted external/internal vulnerability assessments utilizing tools: Nmap, Nessus, BurpSuite, Nikto, and Dirbuster.
+  - Analyzed Nessus scan results, identified critical vulnerabilities, and assigned risk ratings for recommended controls.
+  - Utilized OSINT techniques and created a phishing campaign using GoPhish to assess the security awareness of the employees.
+  - Presented assessment report including an executive summary, detailed findings, and recommendations to the CISO.
+* Colorwave, Inc.
+  <br />Colorwave's Technical Residency in AI or Cybersecurity (TRAC) Program is a career development program that supports underrepresented technical talent in upskilling and gaining professional experience with a cutting-edge startup.
+  - Leveraged my skills and knowledge in cybersecurity to positively contribute to an API development program for an AI service. 
 # Conferences Attended
 - BSidesChicago 2024
 - Blue Team Con 2024
