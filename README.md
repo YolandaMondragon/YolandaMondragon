@@ -16,7 +16,7 @@
   - Presented assessment report including an executive summary, detailed findings, and recommendations to the CISO.
 * Colorwave, Inc. (June 2024 - October 2024)
   <br />Colorwave's Technical Residency in AI or Cybersecurity (TRAC) Program is a career development program that supports underrepresented technical talent in upskilling and gaining professional experience with a cutting-edge startup.
-  - Leveraged my skills and knowledge in cybersecurity to positively contribute to an API development program for an AI service. 
+  - Leveraged my skills and knowledge in cybersecurity to positively contribute to an API development project for an AI service. 
 # Conferences Attended
 - BSidesChicago 2024
 - Blue Team Con 2024
