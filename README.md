@@ -31,6 +31,7 @@
 - Women Impact Tech Chicago 2024
 - ChiBrrCon 2024
 # Live Learning Activities
+- ISACA IT Risk Fundamentals Review Course (in progress)
 - CISA Incident Response Triage Series: Mitigation (IR118)
 - Coursera Introduction to Python for Cybersecurity
 - ISACA MITRE ATT&CK Framework (Fall Seminar 2024)
