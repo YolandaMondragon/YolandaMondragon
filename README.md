@@ -55,4 +55,4 @@
 # Languages
 - Fluent in English and Spanish
 # Hobbies
-- Hiking, travel, Chicago house music, stand-up comedy events, film noir, cooking
+- Hiking, travel, Chicago house music, supporting local theatre and artists, stand-up comedy events, film noir, cooking
