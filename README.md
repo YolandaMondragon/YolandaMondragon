@@ -19,6 +19,7 @@
   - Participated in a five-month residency program that included upskilling, career development, and a technical project.
   - Leveraged my skills and knowledge in cybersecurity to positively contribute to an API development project for an AI/ML platform for the chemical manufacturing industry. 
 # Conferences Attended
+- CYBERWARCON 2024 (Virtual)
 - BSidesChicago 2024
 - OWASP Chicago API Security Summit 2024
 - Blue Team Con 2024
