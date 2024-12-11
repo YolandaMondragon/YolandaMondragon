@@ -8,7 +8,7 @@
 * Supplemental
   - Introduction to Python for Cybersecurity - Coursera (October 2024) 
 # Professional Projects
-* Evolve Security Academy - A contract project for client: Will County Health Department (March 2024)
+* Evolve Security Academy - Final team project for client: Will County Health Department (March 2024)
   - Conducted external/internal vulnerability assessments utilizing tools: Nmap, Nessus, BurpSuite, Nikto, and Dirbuster.
   - Analyzed Nessus scan results, identified critical vulnerabilities, and assigned risk ratings for recommended controls.
   - Utilized OSINT techniques and created a phishing campaign using GoPhish to assess the security awareness of the employees.
