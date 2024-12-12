@@ -53,7 +53,8 @@
 - Member, Information Systems Audit and Control Association (ISACA)
 - Member, Association of Information Technology Professionals (AITP)
 - Member, Women in Cybersecurity (WiCyS)
-- Member, Latinas in Tech 
+- Member, Latinas in Tech
+- Member, The Chicago Council on Global Affairs
 # Languages
 - Fluent in English and Spanish
 # Hobbies
