@@ -32,6 +32,7 @@
 - Women Impact Tech Chicago 2024
 - ChiBrrCon 2024
 # Live Learning Activities
+- CISA Incident Response Triage Series: Instrumenting the Environment to Detect Suspicious and Malicious Activity (IR114) 
 - ISACA IT Risk Fundamentals Review Course
 - CISA Implementing SaaS Security Guidelines (IR113)
 - CISA Incident Response Triage Series: Mitigation (IR118)
