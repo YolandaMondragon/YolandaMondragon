@@ -59,4 +59,4 @@
 # Languages
 - Fluent in English and Spanish
 # Hobbies
-- Hiking/running, travel, Chicago house music, supporting local theatre and artists, stand-up comedy events, true crime, cooking
+- Hiking/running, travel, Chicago house music, supporting local theatre and artists, stand-up comedy concerts, true crime, cooking
