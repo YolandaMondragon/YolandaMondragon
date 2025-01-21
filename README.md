@@ -32,6 +32,7 @@
 - Women Impact Tech Chicago 2024
 - ChiBrrCon 2024
 # Live Learning Activities
+- ISACA Cyber Impact and Strategy Analysis - Seminar & Virtual Workshop
 - CISA Incident Response Triage Series: Instrumenting the Environment to Detect Suspicious and Malicious Activity (IR114) 
 - ISACA IT Risk Fundamentals Review Course
 - CISA Implementing SaaS Security Guidelines (IR113)
