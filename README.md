@@ -32,22 +32,25 @@
 - Women Impact Tech Chicago 2024
 - ChiBrrCon 2024
 # Live Learning Activities
-- ISACA Cyber Impact and Strategy Analysis - Seminar & Virtual Workshop
-- CISA Incident Response Triage Series: Instrumenting the Environment to Detect Suspicious and Malicious Activity (IR114) 
-- ISACA IT Risk Fundamentals Review Course
-- CISA Implementing SaaS Security Guidelines (IR113)
-- CISA Incident Response Triage Series: Mitigation (IR118)
-- Coursera Introduction to Python for Cybersecurity
-- ISACA MITRE ATT&CK Framework (Fall Seminar 2024)
-- CISA Initial Triage and Data Collection (IR115)
-- Splunk Education: Investigating with Splunk
-- Splunk Education: SOAR Workshop
-- Splunk Education: Enterprise Security Workshop
-- Splunk Education: Splunk4Ninjas ML Security Workshop
-- CISA Defend Against Ransomware Attacks (IR109)
-- Splunk Education: Security Basics Workshop
-- O'Reilly Live Event: MITRE ATT&CK Fundamentals
-- O'Reilly Live Event: TCP/IP Deep Dive with Wireshark for NetOps and SecOps
+* Risk Management
+  - ISACA Cyber Impact and Strategy Analysis - Seminar & Virtual Workshop
+  - ISACA IT Risk Management Fundamentals Review Course
+* SecOps
+  - CISA Understanding Indicators of Compromise (IR108)
+  - CISA Incident Response Triage Series: Instrumenting the Environment to Detect Suspicious and Malicious Activity (IR114) 
+  - CISA Implementing SaaS Security Guidelines (IR113)
+  - CISA Incident Response Triage Series: Mitigation (IR118)
+  - Coursera Introduction to Python for Cybersecurity
+  - ISACA MITRE ATT&CK Framework (Fall Seminar 2024)
+  - CISA Initial Triage and Data Collection (IR115)
+  - Splunk Education: Investigating with Splunk
+  - Splunk Education: SOAR Workshop
+  - Splunk Education: Enterprise Security Workshop
+  - Splunk Education: Splunk4Ninjas ML Security Workshop
+  - CISA Defend Against Ransomware Attacks (IR109)
+  - Splunk Education: Security Basics Workshop
+  - O'Reilly Live Event: MITRE ATT&CK Fundamentals
+  - O'Reilly Live Event: TCP/IP Deep Dive with Wireshark for NetOps and SecOps
 # Affiliations
 - Member, Information Systems Security Association (ISSA)
 - Member, Open Worldwide Application Security Project (OWASP) Foundation
