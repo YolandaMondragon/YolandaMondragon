@@ -12,13 +12,14 @@
   - Conducted external/internal vulnerability assessments utilizing tools: Nmap, Nessus, BurpSuite, Nikto, and Dirbuster.
   - Analyzed Nessus scan results, identified critical vulnerabilities, and assigned risk ratings for recommended controls.
   - Utilized OSINT techniques and created a phishing campaign using GoPhish to assess the security awareness of the employees.
-  - Presented assessment report including an executive summary, detailed findings, and recommendations to the CISO.
+  - Presented assessment report, including an executive summary, detailed findings, and recommendations to the CISO.
 * Colorwave, Inc. (June 2024 - October 2024)
   <br />Colorwave's Technical Residency in AI or Cybersecurity (TRAC) Program is a career program that supports underrepresented technical talent in upskilling and gaining professional experience with a cutting-edge startup.
   - Selected as one of 25 participants from a highly-competitive pool (10% acceptance rate)
   - Participated in a five-month residency program that included upskilling, career development, and a technical project.
   - Used Python and Git to contribute to an API development project for an AI/ML platform in the chemical manufacturing industry. 
 # Conferences Attended
+- ChiBrrCon 2025
 - CYBERWARCON 2024 (Virtual)
 - BSidesChicago 2024
 - OWASP Chicago API Security Summit 2024
