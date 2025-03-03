@@ -34,6 +34,7 @@
 - ChiBrrCon 2024
 # Live Learning Activities
 * Risk Management
+  - ISACA Securing the Cloud: Fundamentals, Audits, Zero Trust, Identity Management, and Breach Analysis
   - ISACA Cyber Impact and Strategy Analysis - Seminar & Virtual Workshop
   - ISACA IT Risk Management Fundamentals Review Course
 * SecOps
