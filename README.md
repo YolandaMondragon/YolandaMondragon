@@ -33,7 +33,7 @@
 - Women Impact Tech Chicago 2024
 - ChiBrrCon 2024
 # Live Learning Activities
-* Risk Management
+* Risk & Compliance
   - ISACA Securing the Cloud: Fundamentals, Audits, Zero Trust, Identity Management, and Breach Analysis
   - ISACA Cyber Impact and Strategy Analysis - Seminar & Virtual Workshop
   - ISACA IT Risk Management Fundamentals Review Course
