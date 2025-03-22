@@ -2,7 +2,7 @@
 # Education and Certifications
 * Main
   - Certificate in Cyber Security - Evolve Security Academy (October 2023 - March 2024)
-  - Evolve Security Certified Professional (ESCP) - Evolve Security Academy (March 2024)
+  - <a href="https://www.credly.com/badges/7ea35e69-d8d5-4a78-b61a-168c3e28ed36/public_url">Evolve Security Certified Professional (ESCP)</a> - Evolve Security Academy (March 2024)
   - <a href="https://www.credly.com/badges/1dbe5b9a-092c-40fd-836e-6be4d77bc720/public_url">Security+ Certification</a> - CompTIA (July 2024)
   - B.S. in Computer Science - DePaul University
 * Supplemental Certs & Badges
