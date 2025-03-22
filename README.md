@@ -5,13 +5,14 @@
   - Evolve Security Certified Professional (ESCP) - Evolve Security Academy (March 2024)
   - Security+ Certification - CompTIA (July 2024)
   - B.S. in Computer Science - DePaul University
-* Supplemental
-  - Introduction to Python for Cybersecurity - Coursera (October 2024) 
+* Supplemental Certs & Badges
+  - API Security Fundamentals '25 - APIsec University (March 2025)  
+  - Introduction to Python for Cybersecurity - Coursera (October 2024)
 # Professional Projects
 * Evolve Security Academy - Final team project for client: Will County Health Department (March 2024)
   - Conducted external/internal vulnerability assessments utilizing tools: Nmap, Nessus, BurpSuite, Nikto, and Dirbuster.
   - Analyzed Nessus scan results, identified critical vulnerabilities, and assigned risk ratings for recommended controls.
-  - Utilized OSINT techniques and created a phishing campaign using GoPhish to assess the security awareness of the employees.
+  - Utilized OSINT techniques and created a phishing campaign using GoPhish to assess the employees' security awareness.
   - Presented assessment report, including an executive summary, detailed findings, and recommendations to the CISO.
 * Colorwave, Inc. (June 2024 - October 2024)
   <br />Colorwave's Technical Residency in AI or Cybersecurity (TRAC) Program is a career program that supports underrepresented technical talent in upskilling and gaining professional experience with a cutting-edge startup.
