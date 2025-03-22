@@ -7,7 +7,7 @@
   - B.S. in Computer Science - DePaul University
 * Supplemental Certs & Badges
   - <a href="https://www.credly.com/badges/27b3203d-158d-433f-abce-347663fcd717/public_url">API Security Fundamentals '25</a> - APIsec University (March 2025)  
-  - Introduction to Python for Cybersecurity - Coursera (October 2024)
+  - <a href="https://coursera.org/share/5c1a643117524f753801f19ddd5c5b09">Introduction to Python for Cybersecurity</a> - Coursera (October 2024)
 # Professional Projects
 * Evolve Security Academy - Final team project for client: Will County Health Department (March 2024)
   - Conducted external/internal vulnerability assessments utilizing tools: Nmap, Nessus, BurpSuite, Nikto, and Dirbuster.
