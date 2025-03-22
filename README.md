@@ -3,7 +3,7 @@
 * Main
   - Certificate in Cyber Security - Evolve Security Academy (October 2023 - March 2024)
   - Evolve Security Certified Professional (ESCP) - Evolve Security Academy (March 2024)
-  - <a href="https://www.credly.com/badges/1dbe5b9a-092c-40fd-836e-6be4d77bc720/public_url"Security+ Certification</a> - CompTIA (July 2024)
+  - <a href="https://www.credly.com/badges/1dbe5b9a-092c-40fd-836e-6be4d77bc720/public_url">Security+ Certification</a> - CompTIA (July 2024)
   - B.S. in Computer Science - DePaul University
 * Supplemental Certs & Badges
   - <a href="https://www.credly.com/badges/27b3203d-158d-433f-abce-347663fcd717/public_url">API Security Fundamentals '25</a> - APIsec University (March 2025)  
