@@ -19,6 +19,8 @@
   - Selected as one of 25 participants from a highly-competitive pool (10% acceptance rate)
   - Participated in a five-month residency program that included upskilling, career development, and a technical project.
   - Used Python and Git to contribute to an API development project for an AI/ML platform in the chemical manufacturing industry. 
+# Home Lab
+* Using VMWare Workstation - Vulnerable machine exploitation; Web application testing.
 # Conferences Attended
 - ChiBrrCon 2025
 - CYBERWARCON 2024 (Virtual)
