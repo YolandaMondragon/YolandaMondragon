@@ -41,6 +41,7 @@
   - ISACA Cyber Impact and Strategy Analysis - Seminar & Virtual Workshop
   - ISACA IT Risk Management Fundamentals Review Course
 * SecOps
+  - CISA Incident Response Triage: Cyber Threat Intelligence (IR117)
   - CISA Using the CISA Incident Response Playbook at Your Organization (IR111)  
   - CISA Incident Response Triage: Data Analysis (IR116)
   - CISA Introduction to Log Management (SS110)
