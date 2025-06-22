@@ -23,7 +23,8 @@
 # Home Lab
 * Using VMWare Workstation - Vulnerable machine exploitation; Web application testing.
 # Conferences Attended
-- ChiBrrCon 2025
+- ThotCon 2025
+- ChiBrrCon 2025 & 2024
 - CYBERWARCON 2024 (Virtual)
 - BSidesChicago 2024
 - OWASP Chicago API Security Summit 2024
@@ -35,7 +36,6 @@
 - Sleuthcon 2024 (Virtual)
 - BSides312 Community Conference 2024
 - Women Impact Tech Chicago 2024
-- ChiBrrCon 2024
 # Live Learning Activities
 * Risk & Compliance
   - ISACA Securing the Cloud: Fundamentals, Audits, Zero Trust, Identity Management, and Breach Analysis
