@@ -6,6 +6,7 @@
   - <a href="https://www.credly.com/badges/1dbe5b9a-092c-40fd-836e-6be4d77bc720/public_url">Security+ Certification</a> - CompTIA (July 2024)
   - B.S. in Computer Science - DePaul University
 * Supplemental Certs & Badges
+  - <a href="https://www.credential.net/e9cab4a3-4c03-463c-939c-bc548d3ab4fc#acc.xQXh5oZU">DoD Cyber Sentinel Skills Challenge</a> (June 2025)  
   - <a href="https://www.credly.com/badges/27b3203d-158d-433f-abce-347663fcd717/public_url">API Security Fundamentals '25</a> - APIsec University (March 2025)  
   - <a href="https://coursera.org/share/5c1a643117524f753801f19ddd5c5b09">Introduction to Python for Cybersecurity</a> - Coursera (October 2024)
 # Professional Projects
