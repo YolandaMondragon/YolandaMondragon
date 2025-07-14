@@ -1,9 +1,9 @@
 # Cybersecurity Activities
 # Education and Certifications
 * Main
+  - <a href="https://www.credly.com/badges/1dbe5b9a-092c-40fd-836e-6be4d77bc720/public_url">Security+ Certification</a> - CompTIA (July 2024)
   - <a href="https://www.credly.com/badges/c6ea3e5d-be21-497a-a72f-5f8ac01d00c3/public_url">Cybersecurity Bootcamp Certificate</a> - Evolve Security Academy (October 2023 - March 2024)
   - <a href="https://www.credly.com/badges/7ea35e69-d8d5-4a78-b61a-168c3e28ed36/public_url">Evolve Security Certified Professional (ESCP)</a> - Evolve Security Academy (March 2024)
-  - <a href="https://www.credly.com/badges/1dbe5b9a-092c-40fd-836e-6be4d77bc720/public_url">Security+ Certification</a> - CompTIA (July 2024)
   - B.S. in Computer Science - DePaul University
 * Supplemental Certs & Badges
   - <a href="https://www.credential.net/e9cab4a3-4c03-463c-939c-bc548d3ab4fc#acc.xQXh5oZU">DoD Cyber Sentinel Skills Challenge</a> (June 2025)  
