@@ -21,7 +21,7 @@
   - Participated in a five-month residency program that included upskilling, career development, and a technical project.
   - Used Python and Git to contribute to an API development project for an AI/ML platform in the chemical manufacturing industry. 
 # Home Lab
-* Using VMWare Workstation - Vulnerable machine exploitation; Web application testing.
+* Using VMWare Workstation & Oracle VirtualBox - Vulnerable machine exploitation; Web application testing.
 # Conferences Attended
 - ThotCon 2025
 - ChiBrrCon 2025 & 2024
