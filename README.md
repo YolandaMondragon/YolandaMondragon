@@ -22,20 +22,20 @@
   - Used Python and Git to contribute to an API development project for an AI/ML platform in the chemical manufacturing industry. 
 # Home Lab
 * Using VMWare Workstation & Oracle VirtualBox - Vulnerable machine exploitation; Web application testing.
-# Conferences Attended
-- ThotCon 2025
-- ChiBrrCon 2025 & 2024
-- CYBERWARCON 2024 (Virtual)
-- BSidesChicago 2024
-- OWASP Chicago API Security Summit 2024
-- Blue Team Con 2024
-- ISACA Chicago Convergence Conference 2024
-- ISSA Chicago Annual Security, Education and Networking Cruise 2024
-- SecureWorld Chicago 2024
-- ISACA SheLeadsTech with Expertise Conference 2024
-- Sleuthcon 2024 (Virtual)
-- BSides312 Community Conference 2024
-- Women Impact Tech Chicago 2024
+# Conferences Attended (Various Years)
+- ThotCon
+- ChiBrrCon
+- CYBERWARCON (Virtual)
+- BSidesChicago
+- OWASP Chicago API Security Summit
+- Blue Team Con
+- ISACA Chicago Convergence Conference
+- ISSA Chicago Annual Security, Education and Networking Cruise
+- SecureWorld Chicago
+- ISACA SheLeadsTech with Expertise Conference
+- Sleuthcon (Virtual)
+- BSides312 Community Conference 
+- Women Impact Tech Chicago
 # Live Learning Activities
 * Risk & Compliance
   - ISACA Securing the Cloud: Fundamentals, Audits, Zero Trust, Identity Management, and Breach Analysis
